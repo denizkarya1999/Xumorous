@@ -1,0 +1,50 @@
+Project Planning Document
+
+Progress: Creating MemeViewModel, JokeViewModel and InsultViewModel files
+Project Name: Xumorous
+Project Slogan: Xave fun with people
+
+•  You must use Kotlin or Java (Completed)
+  -> Kotlin (Completed)
+
+•  An appropriate layout for the project you have chosen (Completed)
+    -> Empty Views Activity (Completed)
+
+• Three different types of widgets
+  -> ImageView (Completed)
+  -> TextView (Completed)
+  -> Button (Completed)
+  -> TabLayout (Completed)
+  -> ViewPager (Completed)
+
+• At least two fragments (Completed)
+  -> Fragments
+     -> HomepageFragment (Completed)
+     -> MemeFragment (Completed)
+     -> JokeFragment (Completed)
+     -> InsultFragment (Completed)
+
+• Use of Jetpack features such as the ViewModel, LiveData, etc. (Completed)
+  -> ViewModels
+     -> MemeViewModel (Completed)
+     -> JokeViewModel (Completed)
+     -> InsultViewModel (Completed)
+
+• You must also have at least one of the following:
+  * Navigation features using navigation graphs, hosts, destinations, etc. - (Completed)
+  * Interaction with a Web service - (Completed)
+   -> APIs:
+     -> Random Meme Generator API: https://api.humorapi.com/memes/random?api-key=5d143694632a49819f490e33e48b3f02 (Completed)
+     -> Random Joke API: https://official-joke-api.appspot.com/random_joke (Completed)
+     -> Evil Insult API: https://evilinsult.com/generate_insult.php?lang=en&type=json (Completed)
+
+• A document (.doc, .docx, or .pdf) containing a description of your program’s use, and screen shots
+showing the activities and features of your program'
+  -> Features
+     * Generate a random meme for a friend
+     * Tell random jokes to your partner
+     * Insult your bullies
+     * Share this app with your friends
+  -> Screenshots for each activity will be added with descriptions
+
+Part of your grade will be based on creativity, technical correctness, good programming style, comments, etc.
